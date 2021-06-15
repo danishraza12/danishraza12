@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @danishraza12
+- 👀 I’m interested in Machine Learning, Artificial Intelligence and their combintion with Computer Vision
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on Machine/Deep Learning and AI projects 
+- 📫 How to reach me - Linkedin: @danishraza12
