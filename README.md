@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish Raza
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and their combination with Computer Vision to solve different real world problems alongwith web development using React
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and their combination with Computer Vision to solve different real world problems alongwith web development using React
 - 🌱 I’m currently polishing my Deep Learning skills as well as learning React.js for web development and integrating ML models in web applications
 - 💞️ I’m looking to collaborate on React, Machine/Deep Learning and AI projects 
 - 📫 How to reach me - Linkedin: @danishraza12
