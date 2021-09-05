@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish Raza
-- 👀 I’m interested in Machine Learning, Computer Vision alongwith web development using React.js and .NET Core
-- 🌱 I’m currently polishing my Deep Learning skills as well as learning React.js for web development and integrating ML models in web applications
+- 👀 I’m interested in Web Development using React.js and .NET Core along with Machine/Deep Learning
+- 🌱 I’m currently learning React.js as well as polishing my Deep Learning skills.
 - 💞️ I’m looking to collaborate on React, Machine/Deep Learning projects 
 - 📫 How to reach me - Linkedin: @danishraza12
