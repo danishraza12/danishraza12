@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish Raza
-- 👀 I’m interested in Web Development using React.js as front-end and Node.js and .NET Core as back-end
-- 🌱 I’m currently learning Node.js as well as polishing my Deep Learning skills
-- 💞️ I’m looking to collaborate on React.js and Node.js projects
+- 👀 I’m interested in Web Development using React.js as front-end and Node.js, .NET Core as back-end
+- 🌱 I’m currently learning React.js, .NET and Node.js
+- 💞️ I’m looking to collaborate on Full Stack web development projects
 - 📫 How to reach me - Linkedin: @danishraza12
