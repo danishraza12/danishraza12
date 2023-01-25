@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Danish Raza
 - 👀 I’m interested in Full Stack Web Development using Angular 2+, React.js, .NET Core and Node.js
-- 🌱 I’m currently learning Angular 2+, .NET Core and Git
-- 💞️ I’m looking to collaborate on Full Stack web development projects
 - 📫 How to reach me - Linkedin: @danishraza12
