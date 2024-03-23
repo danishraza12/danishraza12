@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Danish Raza
-- 👀 I’m interested in Full Stack Web Development using Angular 2+, React.js, .NET Core and Node.js
+- 👀 I’m interested in Full Stack Web Development using Angular 2+, Node.js, React.js, and .NET Core
+- Skilled in both SQL and NoSQL databases like MongoDB, PostgreSQL, SQL Server 
+- Hands on experience with AWS having used multiple services such as S3, Lambda, Cognito, CloudWatch, CloudFront, ECS, and EC2 etc.
 - 📫 How to reach me - Linkedin: @danishraza12
